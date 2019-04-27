@@ -2,7 +2,7 @@
 
 > A Professional Hub 
 
-This is the repo for my own personal website where I link to all the varrasy places I exist online and projects I'm working on. 
+This is the repo for my own personal website where I link to all the varies places I exist online and projects I'm working on. 
 
 ## Deployment
 
@@ -15,7 +15,7 @@ The website is currently deployed with GitHub pages.
 
 ## Features
 
-### Currently 
+### Current 
 
 * Words and a lovely background. 
 
