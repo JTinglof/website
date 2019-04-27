@@ -8,7 +8,7 @@ This is the repo for my own personal website where I link to all the varies plac
 
 The website is currently deployed with GitHub pages.
 
-## Built With
+## Technologies 
 
 * HTML
 * CSS
